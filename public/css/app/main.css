@@ -1,0 +1,37 @@
+body {
+    font-family: "Times Roman", Times, Palatino , serif;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #333;
+    background-color: #fff;
+}
+
+div.languages {
+	position: absolute;
+	top: 20px;
+	right: 10px;
+	z-index: 1;
+}
+
+
+li.lang {
+	font-family: Arial, Verdana, sans-serif;
+	text-align: right;
+	display: block;
+	/*width: 80px;*/
+	float: right;
+	padding-left: 10px;
+	padding-right: 5px;
+}
+
+li.lang a {
+	color: #999999;
+	text-decoration: none;
+	display: block;
+}
+
+li.lang a.active {
+	color: #3eb0f7;
+	text-decoration: none;
+	display: block;
+}
