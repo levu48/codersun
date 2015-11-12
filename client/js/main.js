@@ -21,13 +21,12 @@ Template.home.events({
 	}
 });
 
-Template.home.helpers({
-	langActive: function(lang) {
+
+Template.registerHelper('langActive', function(lang) {
 		let current = Session.get('codersun.user.lang');
 		if (current === lang) {
 			return "active";
 		} else {
 			return "inactive";
 		}
-	}
 });

@@ -6,6 +6,10 @@ body {
     background-color: #fff;
 }
 
+.navbar-header {
+	z-index: 1;
+}
+
 div.languages {
 	position: absolute;
 	top: 20px;

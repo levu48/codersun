@@ -1,0 +1,46 @@
+<template name="contact">
+	<div id="contact">
+		<div class="contact fullscreen parallax" style="background-image:url('/images/content/classroom_2000x1333.jpg');" data-img-width="2000" data-img-height="1334" data-diff="100">
+			<div class="overlay">
+				<div class="container">
+					<div class="row contact-row">
+					
+						<!-- /.address and contact -->
+						<div class="col-sm-5 contact-left wow fadeInUp">
+							<h2><span class="highlight">{{_ 'Get' }}</span> {{_ 'in touch' }}</h2>
+								<ul class="ul-address">
+								<li><i class="pe-7s-map-marker"></i>12866 Main Street #101<br/>
+									Garden Grove, CA 92840
+								</li>
+								<li><i class="pe-7s-phone"></i>+1 (714) 448-9496<br>
+								+1 (714) 600-5806
+								</li>
+								<li><i class="pe-7s-mail"></i><a href="mailto:codersun.com@gmail.com">codersun12@gmail.com</a></li>
+								<li><i class="pe-7s-look"></i><a href="#">www.codersun.com</a></li>
+								</ul>	
+									
+						</div>
+						
+						<!-- /.contact form -->
+						<div class="col-sm-7 contact-right">
+							<form method="POST" id="contact-form" class="form-horizontal" action="contactengine.php" onSubmit="alert('Thank you for your feedback!');">
+								<div class="form-group">
+								<input type="text" name="Name" id="Name" class="form-control wow fadeInUp" placeholder="{{_ 'Name' }}" required/>
+								</div>
+								<div class="form-group">
+								<input type="text" name="Email" id="Email" class="form-control wow fadeInUp" placeholder="{{_ 'Email' }}" required/>
+								</div>					
+								<div class="form-group">
+								<textarea name="Message" rows="20" cols="20" id="Message" class="form-control input-message wow fadeInUp"  placeholder="{{_ 'Message' }}" required></textarea>
+								</div>
+								<div class="form-group">
+								<input type="submit" name="submit" value="{{_ 'Submit' }}" class="btn btn-success wow fadeInUp" />
+								</div>
+							</form>		
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</template>
