@@ -1,5 +1,5 @@
 {
-	"headliner": "Start your future coding career here.",
+	"headliner": "Learn coding. And become professional.",
 	"headliner-sub": "The Information Age is exploding with applications, and so is the need for software development. People with coding skill are highly sought after and well rewarded by the industry. CoderSun is the place to provide you with the right training to join this priviledged workforce.",
 	"Programs": "Programs",
 	"Register": "Register",
@@ -30,5 +30,7 @@
 	"Name": "Name",
 	"Email": "Email",
 	"Message": "Message",
-	"Submit": "Submit"
+	"Submit": "Submit",
+
+	"intro text": "<p>We teach JavaScript - the language of modern programming - behind everything from Gmail to Paypal to Facebook's iPhone app Groups. We immerse you in the latest web technologies - NodeJS, ReactJS and MongoDB, foster the fundamentals of Computer Science, and nurture your engineering mindset. See our curriculum. You'll learn true mobile development with JavaScript (the first students in the world to do so). <p/><p>You'll learn from a team of instructors that are behind many of the tools you'll use as a software engineer, top Hacker News and have over 10,000 hours of instruction experience between them.</p><p>Our next 12 week professional programs will begin on November 30, 2015, January 18, 2016 and March 14, 2016.</p>"
 }
