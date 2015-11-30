@@ -9,8 +9,10 @@ getUserLanguage = function () {
 
 if (Meteor.isClient) {
   Meteor.startup(function () {
-    Session.set("codersun.user.lang", "en"); // testing
+    $('body').attr('data-spy', 'scroll');
+    $('body').attr('data-target', '#navbar-scroll');
 
+    Session.set("codersun.user.lang", "en"); // testing
     Session.set("showLoadingIndicator", true);
 
     TAPi18n.setLanguage(getUserLanguage())
@@ -21,5 +23,10 @@ if (Meteor.isClient) {
         // Handle the situation
         console.log(error_message);
       });
+
+
+
+
   });
 }
+
