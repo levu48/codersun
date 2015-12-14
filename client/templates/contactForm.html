@@ -1,0 +1,18 @@
+<template name="contactForm">
+	<div class="col-sm-7 contact-right">
+		<form method="POST" name="contactForm" id="contact-form" class="form-horizontal" onSubmit="alert('Thank you!');">
+			<div class="form-group">
+			<input type="text" name="name" id="Name" class="form-control wow fadeInUp" placeholder="{{_ 'Name' }}" required/>
+			</div>
+			<div class="form-group">
+			<input type="text" name="email" id="Email" class="form-control wow fadeInUp" placeholder="{{_ 'Email' }}" required/>
+			</div>					
+			<div class="form-group">
+			<textarea name="message" rows="20" cols="20" id="Message" class="form-control input-message wow fadeInUp"  placeholder="{{_ 'Message' }}" required></textarea>
+			</div>
+			<div class="form-group">
+			<input type="submit" name="submit" value="{{_ 'Submit' }}" class="btn btn-success wow fadeInUp" />
+			</div>
+		</form>		
+	</div>
+</template>

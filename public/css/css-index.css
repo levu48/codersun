@@ -15,7 +15,7 @@ body {
 	font-weight: 300;
 	padding:0;
 	margin:0;
-	font-size:16px;
+	font-size:18px;
 	line-height: 28px;
 	color: #777; 
 	background: #fff;
@@ -193,7 +193,7 @@ a:hover {
 	color: #fff;
 }
 .signup-header {
-	margin: 150px 0 100px; 
+	margin: 80px 0 100px; 
 	background: rgba(255,255,255,0.2);
 	border-radius: 4px;
 	padding-left: 20px;

@@ -8,6 +8,25 @@ getUserLanguage = function () {
 };
 
 if (Meteor.isClient) {
+    Meteor.startup(function () {
+        $('body').attr('data-spy', 'scroll');
+        $('body').attr('data-target', '#navbar-scroll');
+    
+        Session.set("codersun.user.lang", "en");
+        Session.set("showLoadingIndicator", true);
+
+        TAPi18n.setLanguage(getUserLanguage())
+            .done(function() {
+                Session.set("showLoadingIndicator", false);
+
+            }).fail(function(error_message) {
+                console.log(error_message);
+            });
+
+    });
+}
+
+if (false && Meteor.isClient) { // DEBUGGING ...
   Meteor.startup(function () {
     $('body').attr('data-spy', 'scroll');
     $('body').attr('data-target', '#navbar-scroll');

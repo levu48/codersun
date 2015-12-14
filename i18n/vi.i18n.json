@@ -1,25 +1,29 @@
 {
 	"headliner": "Học viết phần mềm. Và trở thành chuyên nghiệp.",
 	"headliner-sub": "Thời đại thông tin đang bùng nổ với nhiều ứng dụng điện toán, vì thế nhu cầu phát triển phần mềm đang dâng cao. Những người có khả năng viết phần mềm được lùng kiếm và trọng dụng bởi kỹ nghệ tin học. CoderSun là nơi đào tạo để bạn có thể tham gia vào giới công nghệ viết phần mềm đang được đặc biệt ưu đãi này.",
-	"Programs": "Chương trình",
 	"Register": "Đăng ký",
-	"GET STARTED": "BẮT ĐẦU",
+	"GET STARTED": "HÃY BẮT ĐẦU",
 	"Your name": "Tên của bạn",
 	"Email address": "Địa chỉ email",
 	"SUBSCRIBE": "GHI DANH",
+	"I am interested!": "TÔI MUỐN BIẾT THÊM",
+	"Next class starts": "Khóa học khai giảng ngày 15 tháng 2 năm 2016",
+	"Our instructor will contact you": "Giảng viên sẽ liên lạc với bạn để đánh giá",
 	"We will not share your email Read our": "Cam kết bảo vệ thông tin email của bạn.",
 	"privacy policy": "Quyền riêng tư",
 	"About": "Giới thiệu",
 	"Features": "Đặc điểm",
 	"Application": "Ghi danh",
 	"Programs": "Học trình",
+	"Instructors": "Giảng viên",
 	"Reviews": "Đánh giá",
 	"Contact": "Liên lạc",
 	"Incubator": "Vườn ươm IT",
 	"FAQ": "Hỏi đáp",
 
-	"Codersun teaches": "Codersun đào tạo bạn trở thành một người viết phần mềm giỏi.",
+	"Codersun teaches": "Codersun đào tạo bạn trở thành một người viết phần mềm web và app giỏi.",
 	"What makes": "Điều gì đã làm nên sự khác biệt của Codersun",
+	"Feature subtitle": "Kết hợp kiến thức nền tảng và những kỹ năng thực hành của việc phát triển ứng dụng web và app",
 	"Know more": "Muốn biết thêm?",
 	"Get": "Giữ",
 	"in touch": "liên lạc",
@@ -29,9 +33,28 @@
 	"Get connected": "Nối kết",
 	"Name": "Tên",
 	"Email": "Email",
+	"Phone": "Phone",
+	"Your background": "Một chút về bản thân",
 	"Message": "Nội dung",
 	"Submit": "Gởi đi",
 
-	"intro text": "We teach JavaScript - the language of modern programming - behind everything from Gmail to Paypal to Facebook's iPhone app Groups. We immerse you in the latest web technologies - NodeJS, ReactJS and MongoDB, foster the fundamentals of Computer Science, and nurture your engineering mindset. See our curriculum. You'll learn true mobile development with JavaScript (the first students in the world to do so). \n You'll learn from a team of instructors that are behind many of the tools you'll use as a software engineer, top Hacker News and have over 10,000 hours of instruction experience between them.\nOur next 12 week professional programs will begin on November 30, 2015, January 18, 2016 and March 14, 2016."
+	"intro text": "<p>Chúng tôi dạy JavaScript - ngôn ngữ lập trình hiện đại - đằng sau tất cả những ứng dụng từ Gmail cho đến PayPal đến Facebook hay ứng dụng iPhone. Chúng tôi sẽ dạy các bạn những công nghệ web mới nhất - NodeJS, MeteorJS, ReactJS và MongoDB, đào tạo kiến thức căn bản về Công nghệ Phần mềm, và tôi luyện cách suy nghĩ kỹ sư phần mềm. Các bạn sẽ học cách viết ứng dụng cho điện thoại di động bằng JavaScript.<p/> <p>Bạn sẽ được học từ những giảng viên và kỹ sư phần mềm của nhiều năm kinh nghiệm.Khóa học 12 tuần sắp tới sẽ bắt đầu vào ngày 15 tháng 2 năm 2016. Hãy đăng ký sớm để giữ chỗ.</p>",
+
+	"FULLSTACK EDUCATION": "DẠY TOÀN BỘ CÁC KHÂU",
+	"LEARN THROUGH BUILDING": "HỌC VÀ HÀNH",
+	"COMMUNITY FOR LIFE": "MÔI TRƯỜNG HỔ TRỢ",
+	"INCUBATOR": "VƯỜN ƯƠM CÔNG NGHỆ",
+
+	"Fullstack education subtext": "<p>Chúng tôi dạy công nghệ phần mềm và thực hành tất cả các công đoạn bằng JavaScript, ngôn ngữ phần mềm của kỷ thuật web hiện đại. Bạn sẽ học NodeJS, MeteorJS, MongoDB, và ReactJS. Bạn cũng sẽ biết cách làm những ứng dụng app cho điện thoại di động bằng JavaScript.</p>",
+
+	"Learn through subtext": "<p>Chúng tôi giúp các bạn học bằng cách thực hành. Sử dụng mô hình viết phần mềm từng cặp, bạn sẽ thực hiện những dự án phần mềm thử thách, phải động não suy nghĩ, tìm kiếm để hoàn thành (với sự hổ trợ của những phụ giảng). Những bài giảng sẽ cô đọng những nền tảng căn bản nhất do các giảng viên đầy kinh nghiệm và kiến thức.</p>",
+
+	"Community for subtext": "<p>Theo học tại Codersun là một trãi nghiệm thực hành công nghệ tập trung cao độ, đồng thời cũng là đón chào bạn vào cộng đồng của những nhà sáng tạo và kỹ thuật, những người có thể đồng hành suốt đời. Tất cả sinh viên ra trường đều có thể lui tới làm việc ở môi trường vườn ươm công nghệ của Codersun.</p>",
+
+	"Incubator subtext": "<p>Ý tưởng lớn nào cũng phải đầu bằng nhũng bước nhỏ đầu tiên. Nếu có ý tưởng sáng tạo, bạn có thể khởi động tại Codersun với sự hổ trợ, hợp tác và tham gia của những nhà phát triển phần mềm kinh nghiệm, nhà mỹ thuật, nhà tư tưởng, và nhà đầu tư. Codersun là một môi trường của những người yêu thích khoa học kỹ thuật và theo đuổi việc sáng tạo và phát minh để đóng góp vào việc làm thế giới tươi đẹp hơn.</p>",
+
+	"learn more subtext": "<p>Nước Mỹ vào năm 2020 sẽ thiếu vào khoảng một triệu chuyên viên viết phần mềm, tổng thống Barack Obama đã nói như thế trong một bài diễn văn về Công nghệ Thông tin vào năm 2011. Mọi người đều nên biết về viết phần mềm. Thời điểm hiện tại, nhu cầu cho chuyên viên viết phần mềm đã gia tăng mạnh trong một giai đoạn của tốc độ phát minh sáng tạo chưa từng có.</p> <p>Codersun sẽ dạy các bạn những kiến thức và kỹ năng nền tảng nhất. Bối cảnh kỹ thuật phần mềm rất là phong phú và phức tạp, nhưng chúng tôi sẽ trang bị cho bạn một tập hợp các kỹ thuật căn bản để được hấp dẫn trên thị trường tuyển dụng việc làm ngay, và sau đó tiếp tục phát triển khả năng của mình.</p>",
+
+	"Thach Le": "<p><strong>Thach Le, Instructor</strong>. Ông Thạch Lê là nhà sáng lập ra trường dạy phát triển phần mềm Codersun. Ông có hơn 20 năm kinh nghiệm trong lãnh vực phần mềm thông minh nhân tạo, giáo dục từ xa, và phát triển thương mại. Vào thời kỳ đầu, ông làm việc cho hãng The Aerospace Corporation ở El Segundo, California trong vai trò nhà nghiên cứu và phát triển lãnh vực mạng thần kinh nhân tạo và hệ thống thông minh nhân tạo. Sau đó, ông làm việc tại đại học UCLA (Unversity of California, Los Angeles), thuộc viên nghiên cứu Center for Digital Innovation, nghiên cứu và phát triển các hệ thống giáo dục từ xa và thông minh nhân tạo. Ông cũng từng giữ nhiều chức vụ Giám đốc Kỹ thuật cho một số công ty phần mềm. Ông cũng tham gia trong những dự án về giáo dục và phát triển phần mềm ở Việt Nam. Hiện tại ông đang phát triển kỹ thuật phần mềm thông minh thế hệ mới cho ứng dụng web và Internet of Things (IoT). Ông ra trường Thạc sĩ ngành Kỹ sư Điện toán tại đại học Purdue University, West Lafayette, tiểu bang Indiana.</p>"
 
 }
