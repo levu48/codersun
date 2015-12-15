@@ -12,6 +12,19 @@ body {
   width: 120px;
 }
 
+.section-head {
+	padding: 100px 0 0 0;
+}
+
+.text-justify {
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+#programs .column-header {
+	background-color: lightgray;
+}
+
 .navbar-header {
 	z-index: 1;
 }
