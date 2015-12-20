@@ -15,6 +15,7 @@
 	"Features": "Đặc điểm",
 	"Application": "Ghi danh",
 	"Programs": "Học trình",
+	"Industry": "Kỹ nghệ",
 	"Instructors": "Giảng viên",
 	"Reviews": "Đánh giá",
 	"Contact": "Liên lạc",
@@ -38,7 +39,7 @@
 	"Message": "Nội dung",
 	"Submit": "Gởi đi",
 
-	"intro text": "<p>Chúng tôi dạy JavaScript - ngôn ngữ lập trình hiện đại - đằng sau tất cả những ứng dụng từ Gmail cho đến PayPal đến Facebook hay ứng dụng iPhone. Chúng tôi sẽ dạy các bạn những công nghệ web mới nhất - NodeJS, MeteorJS, ReactJS và MongoDB, đào tạo kiến thức căn bản về Công nghệ Phần mềm, và tôi luyện cách suy nghĩ kỹ sư phần mềm. Các bạn sẽ học cách viết ứng dụng cho điện thoại di động bằng JavaScript.<p/> <p>Bạn sẽ được học từ những giảng viên và kỹ sư phần mềm của nhiều năm kinh nghiệm.Khóa học 12 tuần sắp tới sẽ bắt đầu vào ngày 15 tháng 2 năm 2016. Hãy đăng ký sớm để giữ chỗ.</p>",
+	"intro text": "<p>Chúng tôi dạy JavaScript - ngôn ngữ lập trình hiện đại - đằng sau tất cả những ứng dụng từ Gmail cho đến PayPal đến Facebook hay ứng dụng iPhone. Chúng tôi sẽ dạy các bạn những công nghệ web mới nhất - NodeJS, MeteorJS, ReactJS và MongoDB, đào tạo kiến thức căn bản về Công nghệ Phần mềm, và tôi luyện cách suy nghĩ như một kỹ sư phần mềm. Các bạn sẽ học cách viết ứng dụng cho điện thoại di động bằng JavaScript.<p/> <p>Bạn sẽ được học từ những giảng viên và kỹ sư phần mềm của nhiều năm kinh nghiệm.Khóa học 12 tuần sắp tới sẽ bắt đầu vào ngày 15 tháng 2 năm 2016. Hãy đăng ký sớm để giữ chỗ.</p>",
 
 	"FULLSTACK EDUCATION": "DẠY TOÀN BỘ CÁC KHÂU",
 	"LEARN THROUGH BUILDING": "HỌC VÀ HÀNH",
@@ -55,6 +56,27 @@
 
 	"learn more subtext": "<p>Nước Mỹ vào năm 2020 sẽ thiếu vào khoảng một triệu chuyên viên viết phần mềm, tổng thống Barack Obama đã nói như thế trong một bài diễn văn về Công nghệ Thông tin vào năm 2011. Mọi người đều nên biết về viết phần mềm. Thời điểm hiện tại, nhu cầu cho chuyên viên viết phần mềm đã gia tăng mạnh trong một giai đoạn của tốc độ phát minh sáng tạo chưa từng có.</p> <p>Codersun sẽ dạy các bạn những kiến thức và kỹ năng nền tảng nhất. Bối cảnh kỹ thuật phần mềm rất là phong phú và phức tạp, nhưng chúng tôi sẽ trang bị cho bạn một tập hợp các kỹ thuật căn bản để được hấp dẫn trên thị trường tuyển dụng việc làm ngay, và sau đó tiếp tục phát triển khả năng của mình.</p>",
 
-	"Thach Le": "<p><strong>Thach Le, Instructor</strong>. Ông Thạch Lê là nhà sáng lập ra trường dạy phát triển phần mềm Codersun. Ông có hơn 20 năm kinh nghiệm trong lãnh vực phần mềm thông minh nhân tạo, giáo dục từ xa, và phát triển thương mại. Vào thời kỳ đầu, ông làm việc cho hãng The Aerospace Corporation ở El Segundo, California trong vai trò nhà nghiên cứu và phát triển lãnh vực mạng thần kinh nhân tạo và hệ thống thông minh nhân tạo. Sau đó, ông làm việc tại đại học UCLA (Unversity of California, Los Angeles), thuộc viên nghiên cứu Center for Digital Innovation, nghiên cứu và phát triển các hệ thống giáo dục từ xa và thông minh nhân tạo. Ông cũng từng giữ nhiều chức vụ Giám đốc Kỹ thuật cho một số công ty phần mềm. Ông cũng tham gia trong những dự án về giáo dục và phát triển phần mềm ở Việt Nam. Hiện tại ông đang phát triển kỹ thuật phần mềm thông minh thế hệ mới cho ứng dụng web và Internet of Things (IoT). Ông ra trường Thạc sĩ ngành Kỹ sư Điện toán tại đại học Purdue University, West Lafayette, tiểu bang Indiana.</p>"
+	"Thach Le": "<p><strong>Thach Le</strong>, <i>Giảng viên</i>. Ông Thạch Lê là nhà sáng lập ra trường dạy phát triển phần mềm Codersun. Ông có hơn 20 năm kinh nghiệm trong lãnh vực phần mềm thông minh nhân tạo, giáo dục từ xa, và phát triển thương mại. Vào thời kỳ đầu, ông làm việc cho hãng The Aerospace Corporation ở El Segundo, California trong vai trò nhà nghiên cứu và phát triển lãnh vực mạng thần kinh nhân tạo và hệ thống thông minh nhân tạo. Sau đó, ông làm việc tại đại học UCLA (University of California, Los Angeles), thuộc viên nghiên cứu Center for Digital Innovation, nghiên cứu và phát triển các hệ thống giáo dục từ xa và thông minh nhân tạo. Ông cũng từng giữ nhiều chức vụ Giám đốc Kỹ thuật cho một số công ty phần mềm. Ông cũng tham gia trong những dự án về giáo dục và phát triển phần mềm ở Việt Nam. Hiện tại ông đang phát triển kỹ thuật phần mềm thông minh thế hệ mới cho ứng dụng web và Internet of Things (IoT). Ông ra trường Thạc sĩ ngành Kỹ sư Điện toán tại đại học Purdue University, West Lafayette, tiểu bang Indiana.</p>",
+
+	"Objective": "Mục tiêu",
+	"Technologies": "Công nghệ Kỹ thuật",
+	"Skills": "Kỹ năng",
+	"Date & Time": "Thời gian",
+	"Tuition": "Học phí",
+	"Class size": "Số lượng học viên giới hạn, xin ghi danh sớm",
+	"fulltime class": "lớp học toàn thời gian",
+	"part-time class": "lớp học bán thời gian",
+
+	"fullstack objective": "Trang bị đầy đủ cho học viên những kiến thức và kỹ năng để thực sự có thể bắt đầu xin tuyển dụng trong vai trò Junior Web Developer. (Tham khảo bảng <a href='https://www.glassdoor.com/Salaries/junior-web-developer-salary-SRCH_KO0,20.htm' target='_blank'>lương trung bình nước Mỹ</a> cho Junior Web Developer)",
+
+	"fullstack technologies": "- HTML5/CSS3: dàn trang và trình bày hình thức trang web<br/>- JavaScript: ngôn ngữ lập trình phổ biến trên tất cả nền tảng web<br/>- ReactJS: phương pháp tổ chức hình thức web theo đơn vị phần mềm độc lập<br/>- MongoDB: kỹ thuật kho dữ liệu hiện đại theo hướng văn bản<br/>- NodeJS: nền tảng JavaScript ở máy chủ<br/>- MeteorJS: hệ thống JavaScript dùng cho ứng dụng phản ứng theo thời gian thực<br/>- Phương pháp viết ứng dụng di động dựa trên JavaScript<br/>",
+
+	"fullstack date": "- 15 Tháng hai 2016 - 13 Tháng năm 2016<br/>- Thứ hai - Thứ sáu<br/>- 9am - 5pm<br/>- 14 tuần, 5 ngày làm việc trong tuần",
+
+	"javascript objective": "Trang bị cho học viên những kiến thức và kỹ năng để có thể viết những ứng dụng Web một cách tự tin, làm việc bán thời gian hoặc toàn thời gian cho vị trí công việc Junior Web Developer. (Tham khảo bảng <a href='https://www.glassdoor.com/Salaries/junior-web-developer-salary-SRCH_KO0,20.htm' target='_blank'>lương trung bình nước Mỹ</a> cho Junior Web Developer)",
+
+	"javascript technologies": "- HTML5/CSS3: dàn trang và trình bày hình thức trang web<br/>- JavaScript: ngôn ngữ lập trình phổ biến trên tất cả nền tảng web<br/>- JQuery: thư mục JavaScript hay được ưa dùng<br/>- ReactJS: phương pháp tổ chức theo đơn vị phần mềm độc lập<br/>- NodeJS: nền tảng JavaScript ở máy chủ<br/>- Kỹ thuật công nghệ thiết lập ứng dụng web hoàn toàn chỉ dựa vào JavaScript<br/>",
+
+	"javascript date": "- 15 Tháng ba 2016 - 15 Tháng năm 2016<br/>- Thứ bảy và Chủ nhật<br/>- 9am - 5pm<br/>- 10 tuần, 2 ngày cuối tuần<br/>"
 
 }
