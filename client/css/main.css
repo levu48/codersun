@@ -29,6 +29,10 @@ body {
 	z-index: 1;
 }
 
+.logo-text {
+	font-family: 'Passion One', cursive;
+}
+
 div.languages {
 	position: absolute;
 	top: 20px;

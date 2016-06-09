@@ -1,13 +1,13 @@
 {
 	"headliner": "Learn coding. And become professional.",
-	"headliner-sub": "The Information Age is exploding with applications, and so is the need for software development. People with coding skill are highly sought after and well rewarded by the industry. CoderSun is the place to provide you with the right training to join this priviledged workforce.",
+	"headliner-sub": "The Information Age is exploding with applications, and so is the need for software development. People with coding skill are highly sought after and well rewarded by the industry. Appfluent is the place to provide you with the right training to join this priviledged workforce.",
 	"Register": "Register",
 	"GET STARTED": "GET STARTED",
 	"Your name": "Your name",
 	"Email address": "Email address",
 	"SUBSCRIBE": "SUBSCRIBE",
 	"I am interested!": "I AM INTERESTED",
-	"Next class starts": "Next class starts on Feb 15th, 2016",
+	"Next class starts": "Next class starts on July 15th, 2016",
 	"Our instructor will contact you": "Our instructor will contact you for assessment",
 	"We will not share your email Read our": "We will not share your email. Read our",
 	"privacy policy": "Privacy policy",
@@ -22,8 +22,8 @@
 	"Incubator": "Incubator",
 	"FAQ": "FAQ",
 
-	"Codersun teaches": "Codersun teaches you to become an excellent web and app developer.",
-	"What makes": "What makes Codersun unique",
+	"Appfluent teaches": "Appfluent teaches you to become an excellent web and app developer.",
+	"What makes": "What makes Appfluent unique",
 	"Feature subtitle": "Combination of foundational knowledge and practical skills in web and app development",
 	"Know more": "Would like to know more?",
 	"Get": "Get",
@@ -39,7 +39,7 @@
 	"Message": "Message",
 	"Submit": "Submit",
 
-	"intro text": "<p>We teach JavaScript - the language of modern programming - behind everything from Gmail to Paypal to Facebook's iPhone app Groups. We immerse you in the latest web technologies - NodeJS, MeteorJS, ReactJS and MongoDB, foster the fundamentals of Computer Science, and nurture your engineering mindset. You'll learn true mobile development with JavaScript.<p/> <p>You'll learn from experienced instructors and software engineers who has many years working in the field. Our next 12 week professional programs will begin on February 15, 2016. Please register early to reserse space.</p>",
+	"intro text": "<p>We teach JavaScript - the language of modern programming - behind everything from Gmail to Paypal to Facebook's iPhone app Groups. We immerse you in the latest web technologies - NodeJS, MeteorJS, ReactJS and MongoDB, foster the fundamentals of Computer Science, and nurture your engineering mindset. You'll learn true mobile development with JavaScript.<p/> <p>You'll learn from experienced instructors and software engineers who has many years working in the field. Our next 12 week professional programs will begin on July 15, 2016. Please register early to reserse space.</p>",
 
 	"FULLSTACK EDUCATION": "FULLSTACK EDUCATION",
 	"LEARN THROUGH BUILDING": "LEARN THROUGH BUILDING",
@@ -50,13 +50,15 @@
 
 	"Learn through subtext": "<p>We help you build to learn not just learn to code. Utilizing pair programming you'll face challenging projects where you'll need to hunt out the answer (with the total support of our Teaching Assistant). Lectures provide an incredible baseline and are taught by masters in their field.</p>",
 
-	"Community for subtext": "<p>Attending Codersun is a focused engineering experience but it's also about welcoming you into a community of creative and technical people who become lifelong allies. Every graduate has life-time access to our co-working space at our Orange County HQ.</p>",
+	"Community for subtext": "<p>Attending Appfluent is a focused engineering experience but it's also about welcoming you into a community of creative and technical people who become lifelong allies. Every graduate has life-time access to our co-working space at our New York HQ.</p>",
 
-	"Incubator subtext": "<p>All big ideas start out with small steps. And you wouldn't know it is big, until you give it a try. If you have an idea, you can start out at Codersun with the support, collaboration and participation of experienced software developers, arttists, visionaries, and venture capitalists. We are an environment of technology enthusiasts who commit to make the world better through technology and innovation.</p>",
+	"Incubator subtext": "<p>All big ideas start out with small steps. And you wouldn't know it is big, until you give it a try. If you have an idea, you can start out at Appfluent with the support, collaboration and participation of experienced software developers, arttists, visionaries, and venture capitalists. We are an environment of technology enthusiasts who commit to make the world better through technology and innovation.</p>",
 
-	"learn more subtext": "<p>There will be more than 1 million job shortage of software developers in the US by 2020, President Barack Obama said in one of his speeches on hi-tech in 2011. Everyone should learn how to program. Today, the demand for software developers is already strong as the pace of innovation is unprecedented.</p>   <p>Codersun teaches you the essential knowledge and skills to start joinning the workforce. The landscape of technologies is pluralistic and complex, but we will equip you with a basic set of tools to immediately become attractive to job market, and then continue to grow from there.</p>",
+	"learn more subtext": "<p>There will be more than 1 million job shortage of software developers in the US by 2020, President Barack Obama said in one of his speeches on hi-tech in 2011. Everyone should learn how to program. Today, the demand for software developers is already strong as the pace of innovation is unprecedented.</p>   <p>Appfluent teaches you the essential knowledge and skills to start joinning the workforce. The landscape of technologies is pluralistic and complex, but we will equip you with a basic set of tools to immediately become attractive to job market, and then continue to grow from there.</p>",
 
-	"Thach Le": "<p><strong>Thach Le</strong>, <i>Instructor</i>. Mr. Le is the founder of Codersun. He has over 20 years of experience in intelligent software, e-learning, and business development. Early in his career, he worked as a researcher at The Aerospace Corporation in El Segundo, California, where he developed artificial neural networks and expert systems. After that, he was at UCLA Center for Digital Innovation developing distance learning and intelligent agents systems. Mr. Le has served as Chief Technology Officer for several start-up companies. Mr. Le is also involved in education and software development projects in Vietnam. He is currently working on an intelligent agent technology for the web and IoT (Internet of Things). He received his MS in Computer Engineering from Purdue University in West Lafayette, Indiana.</p>",
+	"Thach Le": "<p><strong>Thach Le</strong>, <i>Instructor</i>. Mr. Le is the founder of Appfluent. He has over 20 years of experience in intelligent software, e-learning, and business development. Early in his career, he worked as a researcher at The Aerospace Corporation in El Segundo, California, where he developed artificial neural networks and expert systems. After that, he was at UCLA Center for Digital Innovation developing distance learning and intelligent agents systems. Mr. Le has served as Chief Technology Officer for a couple of start-up companies. He is currently working on an intelligent agent technology for the web and IoT (Internet of Things). Mr. Le holds 2 patents in real-time interactive video technologies and has published several technical papers on the subject of rule-based expert systems. He received his MS in Computer Engineering from Purdue University in West Lafayette, Indiana.</p>",
+
+	"Dan Berke": "<p><strong>Daniel Berke</strong>, <i>Director</i>. <br />(917) 747-4263<br /><a href='mailto:danberke100@gmail.com'>danberke100@gmail.com</a><br /></p>",
 
 	"Objective": "Objective",
 	"Technologies": "Technologies",
@@ -71,11 +73,11 @@
 
 	"fullstack technologies": "- HTML5/CSS3: layout and visual aspects of web applications<br/>- JavaScript: the programming language available on all web platforms<br/>- ReactJS: component-based frontend development<br/>- MongoDB: modern document-based database<br/>- NodeJS: server-side JavaScript platform<br/>- MeteorJS: realtime JavaScript framework<br/>- Javascript-based mobile app development<br/>",
 
-	"fullstack date": "- 15 Feb 2016 - 13 May 2016<br/>- Monday - Friday<br/>- 9am - 5pm<br/>- 14 weeks, weekdays",
+	"fullstack date": "- 15 July 2016 - 13 Oct 2016<br/>- Monday - Friday<br/>- 9am - 5pm<br/>- 14 weeks, weekdays",
 
 	"javascript objective": "To prepare the student to develop web applications with confidence, to become freelance programmers, or to qualify for entry-level Junior Web Developer (JWD) positions. (See national <a href='https://www.glassdoor.com/Salaries/junior-web-developer-salary-SRCH_KO0,20.htm' target='_blank'>average salary</a> for Junior Web Developer)",
 
 	"javascript technologies": "- HTML5/CSS3: layout and visual aspects of web applications<br/>- JavaScript: the programming language available on all web platforms<br/>- JQuery: popular JavaScript library<br/>- ReactJS: component-based frontend development<br/>- NodeJS: server-side JavaScript platform<br/>- Fullstack Javascript-based Web Development Overview<br/>",
 
-	"javascript date": "- 15 Mar 2016 - 15 May 2016<br/>- Saturday, Sunday<br/>- 9am - 5pm<br/>- 10 weeks, weekends<br/>"
+	"javascript date": "- 15 Aug 2016 - 15 Nov 2016<br/>- Saturday, Sunday<br/>- 9am - 5pm<br/>- 10 weeks, weekends<br/>"
 }

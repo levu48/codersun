@@ -9,9 +9,9 @@ Meteor.methods({
 		this.unblock();
 
 		Email.send({
-			to: 'codersun12@gmail.com',
-			from: 'codersun12@gmail.com',
-			subject: 'CODERSUN: ' + subject,
+			to: 'danberke100@gmail.com',
+			from: 'danberke100@gmail.com',
+			subject: 'APPFLUENT: ' + subject,
 			text: text
 		});
 	}
